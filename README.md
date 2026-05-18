@@ -56,7 +56,7 @@ Run the simulation:
 
   Llama-Black receives the updated board, and the cycle repeats until checkmate, stalemate, or draw.
 
-##🤝 Contributing
+# 🤝 Contributing
 
 Contributions are always welcome! Feel free to open an issue or submit a pull request if you want to optimize the prompting strategy, add support for other models, or improve the UI.
 📜 License

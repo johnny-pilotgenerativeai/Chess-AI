@@ -3,7 +3,7 @@
 An open-source chess engine simulation where two fine-tuned Large Language Models (LLMs) play chess against each other. Watch the battle of strategic minds as Llama takes on Llama in a purely algorithmic checkmate showdown.
 
 <p align="center">
-  <img src="assets/preview.png" alt="Two cute llamas playing chess" width="600">
+  <img src="assets/ChatGPT Image May 18, 2026, 06_38_29 AM.png" alt="Two cute llamas playing chess" width="600">
 </p>
 
 ---

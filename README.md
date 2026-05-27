@@ -26,8 +26,8 @@ An open-source chess engine simulation where two fine-tuned Large Language Model
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/ai-chess-llama.git](https://github.com/your-username/ai-chess-llama.git)
-   cd ai-chess-llama
+   git clone https://github.com/johnny-pilotgenerativeai/Chess-AI.git
+   cd Chess-AI
    ```
     Install dependencies:
 ```Bash
@@ -42,7 +42,7 @@ ollama run <model>
 Run the simulation:
 ```Bash
 
-    python Chess.py
+python3 Chess.py
 ```
 🎮 How it Works
 

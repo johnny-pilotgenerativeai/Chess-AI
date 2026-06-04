@@ -1,0 +1,15 @@
+[Unit]
+Description=AI Chess — Llama vs Llama Flask App
+After=network.target ollama.service
+Wants=ollama.service
+
+[Service]
+Type=simple
+User=johnny
+WorkingDirectory=/home/johnny/Chess-AI-main
+ExecStart=/home/johnny/Chess-AI-main/start_chess.sh
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

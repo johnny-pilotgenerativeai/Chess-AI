@@ -4,7 +4,7 @@
 #  AI Chess — startup script
 #  Edit CHESS_DIR if your path is different
 # ─────────────────────────────────────────────
-CHESS_DIR="/home/johnny/Chess-AI-main"
+CHESS_DIR="/path/to/Chess-AI-main"
 VENV_DIR="$CHESS_DIR/.venv"
 SCRIPT="Chess.py"
 

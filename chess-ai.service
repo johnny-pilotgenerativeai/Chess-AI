@@ -5,7 +5,7 @@ Wants=ollama.service
 
 [Service]
 Type=simple
-User=<Your Name.
+User=<Your Name>
 WorkingDirectory=/path/to/Chess-AI
 ExecStart=/path/to/Chess-AI-main/start_chess.sh
 Restart=on-failure
